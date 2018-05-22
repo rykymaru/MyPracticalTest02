@@ -1,0 +1,9 @@
+git clone https://www.github.com/eim2017/Laborator02.git
+
+git remote add practic_Tincu_Teodor https://github.com/rykymaru/dd
+
+La final:
+
+git add practical_test/*
+git commit -m "exercitiile implementate"
+git push practic_Tincu_Teodor master
